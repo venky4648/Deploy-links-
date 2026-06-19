@@ -6,7 +6,7 @@ This repository contains deployment links for my full-stack projects.
 ## Projects
 
 ### Food Delivery Application
-- Frontend:[ https://your-frontend-link.vercel.app](https://food-delivery-project-sandy.vercel.app/)
+- Frontend:https://food-delivery-app-2-one.vercel.app/
 - Backend: https://food-delivery-3-606i.onrender.com
 
 ### Employee Management System
