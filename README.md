@@ -10,7 +10,7 @@ This repository contains deployment links for my full-stack projects.
 - Backend: https://food-delivery-3-606i.onrender.com
 
 ### Employee Management System
-- Frontend: https://your-frontend-link.vercel.app
+- Frontend: [employee-management-system-flame-eta.vercel.app](https://employee-management-system-flame-eta.vercel.app/)
 - Backend: https://employee-management-system-1-fs21.onrender.com
 
 ## Technologies Used
